@@ -1,0 +1,12 @@
+##############################
+# alias.shell - Bash Aliases
+##############################
+
+# 1. Common aliases for Bash
+alias ls='ls -GF'
+alias ll='ls -hlsGF'
+alias la='ls -hlsaGF'
+
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
